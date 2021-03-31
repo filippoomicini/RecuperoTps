@@ -12,7 +12,7 @@ namespace recuperoTps
         static void Main(string[] args)
         {
             Thread t1 = new Thread(new ThreadStart(MetodoSomma));
-            
+            Thread t2 = new Thread(new ThreadStart(Tabellina));
         }
 
         public void MetodoSomma()
@@ -23,6 +23,15 @@ namespace recuperoTps
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine("Somma: " + Somma);
+            }
+        }
+
+        public void Tabellina()
+        {
+            int val = 70;
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Tabellina: " + val * i);
             }
         }
     }
