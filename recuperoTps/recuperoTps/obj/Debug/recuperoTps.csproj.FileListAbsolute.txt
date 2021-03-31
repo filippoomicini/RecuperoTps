@@ -1,0 +1,7 @@
+C:\Users\filip\Desktop\RecuperoTps\recuperoTps\recuperoTps\bin\Debug\recuperoTps.exe.config
+C:\Users\filip\Desktop\RecuperoTps\recuperoTps\recuperoTps\bin\Debug\recuperoTps.exe
+C:\Users\filip\Desktop\RecuperoTps\recuperoTps\recuperoTps\bin\Debug\recuperoTps.pdb
+C:\Users\filip\Desktop\RecuperoTps\recuperoTps\recuperoTps\obj\Debug\recuperoTps.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\RecuperoTps\recuperoTps\recuperoTps\obj\Debug\recuperoTps.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\RecuperoTps\recuperoTps\recuperoTps\obj\Debug\recuperoTps.exe
+C:\Users\filip\Desktop\RecuperoTps\recuperoTps\recuperoTps\obj\Debug\recuperoTps.pdb
